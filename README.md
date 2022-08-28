@@ -3,7 +3,7 @@ Online Doctor Appointment System
 
 
 Create a database name as 'project'
-create five table ---> appointment
+create four table ---> appointment
                   ---> client
                   ---> doctor
                   ---> schedule
